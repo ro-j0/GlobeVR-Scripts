@@ -1,0 +1,352 @@
+{
+  "stateDatas" :[
+  {
+    "Province_State": "Alabama",
+    "Confirmed": 213617,
+    "Deaths": 3231,
+    "Recovered": 88038
+  },
+  {
+    "Province_State": "Alaska",
+    "Confirmed": 22405,
+    "Deaths": 97,
+    "Recovered": 7161
+  },
+  {
+    "Province_State": "American Samoa",
+    "Confirmed": 0,
+    "Deaths": 0,
+    "Recovered": null
+  },
+  {
+    "Province_State": "Arizona",
+    "Confirmed": 269577,
+    "Deaths": 6257,
+    "Recovered": 44675
+  },
+  {
+    "Province_State": "Arkansas",
+    "Confirmed": 130318,
+    "Deaths": 2148,
+    "Recovered": 112383
+  },
+  {
+    "Province_State": "California",
+    "Confirmed": 1013566,
+    "Deaths": 18205,
+    "Recovered": null
+  },
+  {
+    "Province_State": "Colorado",
+    "Confirmed": 154038,
+    "Deaths": 2504,
+    "Recovered": 9148
+  },
+  {
+    "Province_State": "Connecticut",
+    "Confirmed": 88645,
+    "Deaths": 4737,
+    "Recovered": 9800
+  },
+  {
+    "Province_State": "Delaware",
+    "Confirmed": 28016,
+    "Deaths": 734,
+    "Recovered": 14571
+  },
+  {
+    "Province_State": "Diamond Princess",
+    "Confirmed": 49,
+    "Deaths": 0,
+    "Recovered": null
+  },
+  {
+    "Province_State": "District of Columbia",
+    "Confirmed": 18666,
+    "Deaths": 657,
+    "Recovered": 14160
+  },
+  {
+    "Province_State": "Florida",
+    "Confirmed": 870552,
+    "Deaths": 17445,
+    "Recovered": null
+  },
+  {
+    "Province_State": "Georgia",
+    "Confirmed": 419870,
+    "Deaths": 8905,
+    "Recovered": null
+  },
+  {
+    "Province_State": "Grand Princess",
+    "Confirmed": 103,
+    "Deaths": 3,
+    "Recovered": null
+  },
+  {
+    "Province_State": "Guam",
+    "Confirmed": 5924,
+    "Deaths": 92,
+    "Recovered": 3942
+  },
+  {
+    "Province_State": "Hawaii",
+    "Confirmed": 16652,
+    "Deaths": 222,
+    "Recovered": 11958
+  },
+  {
+    "Province_State": "Idaho",
+    "Confirmed": 79798,
+    "Deaths": 752,
+    "Recovered": 34104
+  },
+  {
+    "Province_State": "Illinois",
+    "Confirmed": 551957,
+    "Deaths": 10891,
+    "Recovered": null
+  },
+  {
+    "Province_State": "Indiana",
+    "Confirmed": 236565,
+    "Deaths": 4863,
+    "Recovered": 144548
+  },
+  {
+    "Province_State": "Iowa",
+    "Confirmed": 178888,
+    "Deaths": 1972,
+    "Recovered": 106529
+  },
+  {
+    "Province_State": "Kansas",
+    "Confirmed": 117505,
+    "Deaths": 1178,
+    "Recovered": 2960
+  },
+  {
+    "Province_State": "Kentucky",
+    "Confirmed": 132844,
+    "Deaths": 1647,
+    "Recovered": 23872
+  },
+  {
+    "Province_State": "Louisiana",
+    "Confirmed": 201981,
+    "Deaths": 6121,
+    "Recovered": 176107
+  },
+  {
+    "Province_State": "Maine",
+    "Confirmed": 8639,
+    "Deaths": 162,
+    "Recovered": 6428
+  },
+  {
+    "Province_State": "Maryland",
+    "Confirmed": 161769,
+    "Deaths": 4273,
+    "Recovered": 8343
+  },
+  {
+    "Province_State": "Massachusetts",
+    "Confirmed": 183095,
+    "Deaths": 10265,
+    "Recovered": 137422
+  },
+  {
+    "Province_State": "Michigan",
+    "Confirmed": 268362,
+    "Deaths": 8308,
+    "Recovered": 128981
+  },
+  {
+    "Province_State": "Minnesota",
+    "Confirmed": 207339,
+    "Deaths": 2895,
+    "Recovered": 161756
+  },
+  {
+    "Province_State": "Mississippi",
+    "Confirmed": 131970,
+    "Deaths": 3519,
+    "Recovered": 111430
+  },
+  {
+    "Province_State": "Missouri",
+    "Confirmed": 234116,
+    "Deaths": 3372,
+    "Recovered": null
+  },
+  {
+    "Province_State": "Montana",
+    "Confirmed": 44244,
+    "Deaths": 477,
+    "Recovered": 25389
+  },
+  {
+    "Province_State": "Nebraska",
+    "Confirmed": 94922,
+    "Deaths": 775,
+    "Recovered": 51017
+  },
+  {
+    "Province_State": "Nevada",
+    "Confirmed": 116737,
+    "Deaths": 1893,
+    "Recovered": 2601
+  },
+  {
+    "Province_State": "New Hampshire",
+    "Confirmed": 13937,
+    "Deaths": 498,
+    "Recovered": 10447
+  },
+  {
+    "Province_State": "New Jersey",
+    "Confirmed": 270383,
+    "Deaths": 16522,
+    "Recovered": 39052
+  },
+  {
+    "Province_State": "New Mexico",
+    "Confirmed": 62006,
+    "Deaths": 1198,
+    "Recovered": 24291
+  },
+  {
+    "Province_State": "New York",
+    "Confirmed": 551163,
+    "Deaths": 33993,
+    "Recovered": 81390
+  },
+  {
+    "Province_State": "North Carolina",
+    "Confirmed": 305233,
+    "Deaths": 4720,
+    "Recovered": 261719
+  },
+  {
+    "Province_State": "North Dakota",
+    "Confirmed": 60602,
+    "Deaths": 707,
+    "Recovered": 49409
+  },
+  {
+    "Province_State": "Northern Mariana Islands",
+    "Confirmed": 100,
+    "Deaths": 2,
+    "Recovered": 29
+  },
+  {
+    "Province_State": "Ohio",
+    "Confirmed": 282528,
+    "Deaths": 5700,
+    "Recovered": 197674
+  },
+  {
+    "Province_State": "Oklahoma",
+    "Confirmed": 147358,
+    "Deaths": 1493,
+    "Recovered": 121774
+  },
+  {
+    "Province_State": "Oregon",
+    "Confirmed": 54937,
+    "Deaths": 753,
+    "Recovered": 5870
+  },
+  {
+    "Province_State": "Pennsylvania",
+    "Confirmed": 259988,
+    "Deaths": 9210,
+    "Recovered": 178070
+  },
+  {
+    "Province_State": "Puerto Rico",
+    "Confirmed": 41119,
+    "Deaths": 914,
+    "Recovered": 35284
+  },
+  {
+    "Province_State": "Rhode Island",
+    "Confirmed": 41529,
+    "Deaths": 1254,
+    "Recovered": 3086
+  },
+  {
+    "Province_State": "South Carolina",
+    "Confirmed": 192101,
+    "Deaths": 4101,
+    "Recovered": 100074
+  },
+  {
+    "Province_State": "South Dakota",
+    "Confirmed": 62327,
+    "Deaths": 568,
+    "Recovered": 43132
+  },
+  {
+    "Province_State": "Tennessee",
+    "Confirmed": 300458,
+    "Deaths": 3852,
+    "Recovered": 265459
+  },
+  {
+    "Province_State": "Texas",
+    "Confirmed": 1043116,
+    "Deaths": 19785,
+    "Recovered": 850648
+  },
+  {
+    "Province_State": "Utah",
+    "Confirmed": 145789,
+    "Deaths": 701,
+    "Recovered": 100892
+  },
+  {
+    "Province_State": "Vermont",
+    "Confirmed": 2743,
+    "Deaths": 59,
+    "Recovered": 1977
+  },
+  {
+    "Province_State": "Virgin Islands",
+    "Confirmed": 1426,
+    "Deaths": 23,
+    "Recovered": 1357
+  },
+  {
+    "Province_State": "Virginia",
+    "Confirmed": 199262,
+    "Deaths": 3785,
+    "Recovered": 22095
+  },
+  {
+    "Province_State": "Washington",
+    "Confirmed": 125498,
+    "Deaths": 2519,
+    "Recovered": null
+  },
+  {
+    "Province_State": "West Virginia",
+    "Confirmed": 31639,
+    "Deaths": 565,
+    "Recovered": 22543
+  },
+  {
+    "Province_State": "Wisconsin",
+    "Confirmed": 318023,
+    "Deaths": 2683,
+    "Recovered": 229469
+  },
+  {
+    "Province_State": "Wyoming",
+    "Confirmed": 21341,
+    "Deaths": 127,
+    "Recovered": 12082
+  }
+ ]
+}
